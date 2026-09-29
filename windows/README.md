@@ -14,4 +14,4 @@ This section documents hands-on Windows administration, troubleshooting, system 
 
 ## Objective
 
-Build practical experience investigating Windows systems using native administrative tools, system telemetry, and structured troubleshooting methodology.
+Build practical experience investigating Windows systems using native administrative tools, system telemetry, and structured troubleshooting methodology. 
