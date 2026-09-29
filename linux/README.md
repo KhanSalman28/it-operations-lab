@@ -17,4 +17,4 @@ This section documents hands-on Linux administration, troubleshooting, system ma
 
 ## Objective
 
-Build practical experience administering and troubleshooting Linux systems while developing an understanding of the operational telemetry and security controls relevant to security operations.
+Build practical experience administering and troubleshooting Linux systems while developing an understanding of the operational telemetry and security controls relevant to security operations. 
