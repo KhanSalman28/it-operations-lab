@@ -1,0 +1,60 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment and secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+secrets/
+credentials/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Local lab artifacts
+*.iso
+*.vmdk
+*.vdi
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+
+# Packet captures
+*.pcap
+*.pcapng
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PowerShell
+*.clixml
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Archives
+*.zip
+*.7z
+*.rar
