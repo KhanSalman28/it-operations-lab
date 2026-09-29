@@ -12,4 +12,4 @@ This section contains diagrams supporting the technical documentation and lab en
 
 ## Purpose
 
-Diagrams are used to communicate infrastructure relationships, troubleshooting workflows, system dependencies, and security-relevant technical concepts clearly.
+Diagrams are used to communicate infrastructure relationships, troubleshooting workflows, system dependencies, and security-relevant technical concepts clearly. 
